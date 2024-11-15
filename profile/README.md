@@ -54,7 +54,6 @@ Though our focus has shifted, our commitment to collaboration and innovation rem
 
 - **Website**: [shadowsuite.ai](https://www.shadowsuite.ai/)
 - **Email**: [hello@dismantle.io](mailto:hello@dismantle.io)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
